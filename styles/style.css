@@ -14,11 +14,11 @@ body {
 }
 
 .main-block:hover {
-    width: 450px;
-    border-radius: 100px;
+    transform: rotate(360deg);
+    border-radius: 50%;
 }
 
-.main-block-message {
+    .main-block-message {
     font-size: 23px;
 }
 
